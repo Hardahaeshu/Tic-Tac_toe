@@ -1,2 +1,2 @@
 # Tic-Tac_toe
-This is my first  repo
+This is my first Git Repository.
